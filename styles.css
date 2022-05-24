@@ -17,12 +17,13 @@ p {
     font-weight: 400;
     color: hsl(220, 15%, 55%);
     text-align: center;
+    padding-bottom: 20px;
 }
 
 img {
     max-width: 375px;
     max-height: 375px;
-    border-radius: 15px;
+    border-radius: 20px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -31,15 +32,18 @@ img {
 
 .Card {
     background-color: hsl(0, 0%, 100%) ;
-    max-width: 500px;
+    max-width: 420px;
     margin: auto;
-    margin-top: 50px;
+    margin-top: 150px;
     margin-bottom: 50px;
-    border-radius: 15px;
+    border-radius: 30px;
     padding-top: 20px;
     
 }
 
+footer {
+    padding-top: 110px;
+}
 
 
 
